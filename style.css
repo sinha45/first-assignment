@@ -50,10 +50,11 @@ section{
    background-color: lightslategrey;
     position: relative;
    margin: 30px  10px;
-   width: 20px;
+   width: 30px;
    border-radius: 20px;
-   margin-right: 10%;
-   margin-left: 10%;
+   margin-right: 40px;
+   margin-left: 45px;
+
 
 
   
@@ -65,8 +66,9 @@ section{
     margin: 30px 10px ;
     width: 20px;
     border-radius: 20px;
-    margin-right: 10%;
-   margin-left: 10%;
+    margin-right: 40px;
+    margin-left: 45px;
+  
   
  
 }
@@ -77,12 +79,29 @@ section{
     margin: 30px 10px;
     width: 20px;
     border-radius: 20px;
-    margin-right: 10%;
-   margin-left: 10%;
+    margin-right: 40px;
+    margin-left: 45px;
   
 
 }
 .images-size img{
-    width: 35%;
+    width: 40%;
     padding-top: 20px;
-}
+    margin-left: 10%;
+ }
+ .left-side{
+     margin-left: 5%;
+ }
+ .coding-image img{
+     width: 80%;
+     margin-left: 10%;
+     margin-top: 15%;
+    
+ }
+ 
+ .coding-style{
+
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 25%;
+ }
