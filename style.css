@@ -95,7 +95,7 @@ section{
  .coding-image img{
      width: 80%;
      margin-left: 10%;
-     margin-top: 15%;
+     margin-top: 15px;
     
  }
  
@@ -105,3 +105,28 @@ section{
     padding-left: 10%;
     padding-right: 25%;
  }
+ .global-community{
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 10%;
+ }
+ .global-community img{
+    width: 70%;
+    padding-top: 5%;
+    padding-right: 35%;
+ }
+ 
+ .footer-style{
+     width: 300%;
+     background-color: cadetblue;
+     text-align: center;
+     font-size: 400;
+ }
+ .style-tw{
+     color: coral;
+}
+.para-graph{
+    padding-top: 10%;
+}
+
+ 
